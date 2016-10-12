@@ -7,10 +7,10 @@ AppDelegate::AppDelegate() {
 
 }
 
-AppDelegate::~AppDelegate() 
+AppDelegate::~AppDelegate()
 {
 }
-
+//wang   come
 //if you want a different context,just modify the value of glContextAttrs
 //it will takes effect on all platforms
 void AppDelegate::initGLContextAttrs()
